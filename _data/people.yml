@@ -1,0 +1,201 @@
+
+prof-a:
+    display_name: "郁金泰"
+    webpage: "https://www.huashan.org.cn/zhuanjia/doctorinfo/3190.html"
+    role: faculty
+    image: /img/people/yu_jintai.png
+    bio: Professor
+
+# profx:
+#     display_name: "Professor X"
+#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
+
+# scott:
+#     display_name: "Scott Summers"
+#     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#     role: staff
+#     image: /img/people/scott.png
+#     bio: aka Cyclops
+
+# wolverine:
+#     display_name: "Wolverine"
+#     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+#     github: wolverine
+#     role: postdoc
+
+李红旗:
+    display_name: "李红旗"
+    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    image: /img/people/storm.png
+    bio: Resident Physician
+
+grad-a:
+    display_name: "黄钰媛"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-b:
+    display_name: "沈雪宁"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-c:
+    display_name: "陈仕东"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-d:
+    display_name: "王艺海"
+    role: grad
+    bio: MD Candidate
+
+grad-e:
+    display_name: "肖思萌"
+    role: grad
+    bio: MD Candidate
+
+grad-f:
+    display_name: "杨宇翔"
+    role: grad
+    bio: M.D Candidate
+
+grad-g:
+    display_name: "张雪晴"
+    role: grad
+    bio: M.D Candidate
+
+grad-h:
+    display_name: "沈凌霄"
+    role: grad
+    bio: M.D Candidate
+
+grad-i:
+    display_name: "黄舒怡"
+    role: grad
+    bio: M.S. Candidate
+
+grad-j:
+    display_name: "王榕泽"
+    role: grad
+    bio: M.S. Candidate
+
+grad-k:
+    display_name: "Kevin kuo "
+    role: grad
+    bio: M.S. Candidate
+
+grad-l:
+    display_name: "蔡文捷"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-m:
+    display_name: "张亚茹"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-n:
+    display_name: "吴凯敏"
+    role: grad
+    bio: Ph.D Candidate
+
+grad-o:
+    display_name: "乔丽帆"
+    role: grad
+    bio: Ph.D Candidate
+
+ugrad-a:
+    display_name: "张瑞琪"
+    role: ugrad
+    bio: B.S. Candidate
+
+ugrad-b:
+    display_name: "宁静"
+    role: ugrad
+    bio: B.S. Candidate
+
+# ugrad-c:
+#     display_name: "Ugrad C"
+#     role: ugrad
+
+# ugrad-d:
+#     display_name: "Ugrad D"
+#     role: ugrad
+
+# ugrad-e:
+#     display_name: "Ugrad E"
+#     role: ugrad
+
+# alum-a:
+#     display_name: "Alum A"
+#     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
+
+# alum-b:
+#     display_name: "Alum B With Way Longer Name"
+#     role: alum
+#     bio: Ph.D Candidate
+
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     # webpage: "https://www.google.com"
+#     bio: Ph.D Candidate
+
+# alum-d:
+#     display_name: "Alum D"
+#     role: alum
+#     bio: Ph.D Candidate
+
+# alum-e:
+#     display_name: "Alum E"
+#     role: alum
+
+# alum-f:
+#     display_name: "Alum F"
+#     role: alum
+
+# alum-g:
+#     display_name: "Alum G"
+#     role: alum
+
+# alum-h:
+#     display_name: "Alum H"
+#     role: alum
+
+# alum-i:
+#     display_name: "Alum I"
+#     role: alum
+
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab
+
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
+
+# collab-c:
+#     display_name: "Collaborator C"
+#     role: collab
+
+# collab-d:
+#     display_name: "Collaborator D"
+#     role: collab
+
+# collab-e:
+#     display_name: "Collaborator E"
+#     role: collab
+
+ugrad-alum-a:
+    display_name: "林碧莹"
+    role: ugrad-alum
+
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum
