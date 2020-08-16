@@ -32,9 +32,10 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://yujintai-huashan.github.io/research-group-web/'
-url: 'https://yujintai-huashan.github.io/'
-baseurl: 'research-group-web'
+# base: 'https://yujintai-huashan.github.io/research-group-web/'
+base: ''
+# url: 'https://yujintai-huashan.github.io/'
+# baseurl: 'research-group-web'
 
 
 # make pages for the _projects folder
