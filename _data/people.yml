@@ -31,7 +31,7 @@ prof-a:
     display_name: "李红旗"
     # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: postdoc
-    image: /img/people/storm.png
+    image: img/people/storm.png
     bio: Resident Physician
 
 grad-a:
